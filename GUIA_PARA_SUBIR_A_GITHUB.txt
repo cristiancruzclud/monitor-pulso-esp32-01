@@ -1,0 +1,22 @@
+GUÍA PARA PUBLICAR EL PROYECTO EN GITHUB
+
+1. Ingresa a https://github.com/ e inicia sesión.
+2. Pulsa el signo + de la parte superior derecha y selecciona New repository.
+3. Nombre sugerido: Monitor-de-Pulso-ESP32
+4. Descripción sugerida: Monitor educativo de pulso cardíaco con ESP32, sensor analógico y pantalla TFT ST7789.
+5. Selecciona Public si deseas compartir el proyecto mediante un enlace.
+6. Pulsa Create repository.
+7. En el repositorio, selecciona Add file > Upload files.
+8. Descomprime Monitor_de_Pulso_ESP32_GitHub.zip en tu computador.
+9. Arrastra el contenido de la carpeta monitor_pulso_github (README.md y las carpetas src, docs, videos e imagenes) a la página de GitHub.
+10. Espera a que termine la carga. En el mensaje de confirmación escribe: Publicar proyecto monitor de pulso ESP32.
+11. Pulsa Commit changes.
+
+El enlace final tendrá esta forma:
+https://github.com/TU-USUARIO/Monitor-de-Pulso-ESP32
+
+RECOMENDACIONES
+- README.md es la portada del repositorio; GitHub lo muestra automáticamente.
+- Los videos incluidos son archivos MP4. GitHub limita a 100 MB el tamaño de cada archivo en una carga normal.
+- Antes de publicar, revisa el informe y completa los campos que aún aparezcan como [COMPLETAR].
+- El sketch v2 se conserva como fue recibido, con extensión .ino para abrirlo desde Arduino IDE.
